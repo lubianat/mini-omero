@@ -3,7 +3,7 @@ Getting a personal OMERO server up and running for testing!
 
 # Goal 
 
-Provide a very quick way for a dev to have an OMERO server running locally on a laptop.
+Provide a very quick way for anyone to have a test OMERO server with real, CC0 data, running locally on a laptop.
 
 After going through it, one should be able to: 
 
