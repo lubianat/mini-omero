@@ -11,7 +11,7 @@ After going through it, one should be able to:
 
 * Import a set of pre-selected, openly licensed, microscopy images via the CLI 
 
-* Be able to browse these images using OMERO.web, OMERO.insights, OMERO.figure and ezomero
+* Be able to browse these images using OMERO.web, OMERO.insight, OMERO.figure and ezomero
 
 
 # Requirements 
