@@ -25,6 +25,13 @@ Support for 3.11 ends on 2027-10, so if you are reading this text after that, yo
 
 # Basic steps 
 
+## Get the mini-omero repo on your machine
+
+```
+gh repo clone lubianat/mini-omero
+cd mini-omero
+```
+
 ## Get an OMERO running
 
 
